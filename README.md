@@ -1,2 +1,2 @@
 # iflocked
-An exploit for Windows 10 if the command prompt is disabled by an administrator.
+Multitool for CMD-locked Windows Machines (Written in Python)
